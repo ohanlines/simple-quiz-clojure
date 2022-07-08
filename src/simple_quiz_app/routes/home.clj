@@ -1,14 +1,23 @@
 (ns simple-quiz-app.routes.home
   (:require [hiccup.form :as hf]
             [compojure.core :refer :all]
-            [noir.response :refer [redirect]]
+            [ring.util.response :as resp]
             [simple-quiz-app.views.layout :as layout]))
 
 
 (def soal-item ((read-string (slurp "src/simple_quiz_app/models/sample.edn")) 0))
 
-(defn pembahasan []
-  )
+(def atom-answers (atom []))
+
+(defn client-answer [answer]
+  (let [answers    (do (swap! atom-answers conj answer)
+                       @atom-answers)
+        n-answer   (count answers)]
+    n-answer))
+
+(defn pembahasan-page []
+  (layout/common
+   [:h "halo pembahasan"]))
 
 (defn home []
   (layout/common
@@ -28,4 +37,10 @@
 
 (defroutes home-routes
   (GET "/" [] (home))
-  )
+  (POST "/" [answer]
+    (if (>= (client-answer answer) 2)
+      (do (reset! atom-answers [])
+          (resp/redirect "/pembahasan-page"))
+      (resp/redirect "/")))
+  
+  (GET "/pembahasan-page" [] (pembahasan-page)))
