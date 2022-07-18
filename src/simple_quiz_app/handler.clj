@@ -5,7 +5,8 @@
             [hiccup.middleware :refer [wrap-base-url]]
             [compojure.handler :as handler]
             [compojure.route :as route]
-            [simple-quiz-app.routes.home :refer [home-routes]]))
+            [simple-quiz-app.routes.home :refer [home-routes]]
+            [simple-quiz-app.routes.problem :refer [problem-routes]]))
 
 (defn init []
   (println "simple-quiz-app is starting"))
@@ -18,6 +19,6 @@
   (route/not-found "Not Found"))
 
 (def app
-  (-> (routes home-routes app-routes)
+  (-> (routes problem-routes home-routes app-routes)
       (handler/site)
       (wrap-base-url)))
