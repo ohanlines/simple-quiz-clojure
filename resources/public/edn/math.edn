@@ -1,0 +1,495 @@
+[{:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Yudha punya data kek gini nih: <br> 156 181 127 109 180 164 82 <br>\r\n    <br>\r\n    Berapa nilai median berdasarkan data di atas?\r\n</p>\r\n\r\n",
+   :options
+   [[false "109 " 0]
+    [true "156 " 1]
+    [false "142.71" 2]
+    [false "127 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 156 181 127 109 180 164 82. <br>\r\n    Data yang udah diurutkan: 82 109 127 156 164 180 181. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99087760461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Misalnya nih Erwin punya data seperti di bawah ini: <br> 125 119 111 168 118 183 182 <br>\r\n    <br>\r\n    Tentukan nilai tengah berdasarkan data di atas?\r\n</p>\r\n\r\n",
+   :options
+   [[false "119 " 0]
+    [false "143.71" 1]
+    [true "125 " 2]
+    [false "168 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 125 119 111 168 118 183 182. <br>\r\n    Data yang udah diurutkan: 111 118 119 125 168 182 183. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99087761461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Mira punya data kek gini nih: <br> 150 152 169 144 86 <br>\r\n    <br>\r\n    Nilai median berdasarkan data di atas adalah ....\r\n</p>\r\n\r\n",
+   :options
+   [[false "144 " 0]
+    [false "169 " 1]
+    [false "140.20" 2]
+    [true "150 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 150 152 169 144 86. <br>\r\n    Data yang udah diurutkan: 86 144 150 152 169. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99087762461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Misalnya nih Cintya punya data seperti di bawah ini: <br> 101 114 86 81 184 146 178 <br>\r\n    <br>\r\n    Nilai tengah berdasarkan data di atas adalah ....\r\n</p>\r\n\r\n",
+   :options
+   [[true "114 " 0]
+    [false "81 " 1]
+    [false "127.14" 2]
+    [false "101 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 101 114 86 81 184 146 178. <br>\r\n    Data yang udah diurutkan: 81 86 101 114 146 178 184. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99087763461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Misalnya nih Yudha punya data seperti di bawah ini: <br> 141 145 133 <br>\r\n    <br>\r\n    Berapa nilai tengah berdasarkan data di atas?\r\n</p>\r\n\r\n",
+   :options
+   [[false "133 " 0]
+    [true "141 " 1]
+    [false "145 " 2]
+    [false "139.67" 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 141 145 133. <br>\r\n    Data yang udah diurutkan: 133 141 145. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99087764461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Misalnya nih Butet punya data seperti di bawah ini: <br> 94 184 82 <br>\r\n    <br>\r\n    Berapa nilai tengah berdasarkan data di atas?\r\n</p>\r\n\r\n",
+   :options
+   [[false "120.00" 0]
+    [false "184 " 1]
+    [false "82 " 2]
+    [true "94 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 94 184 82. <br>\r\n    Data yang udah diurutkan: 82 94 184. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99087765461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Misalnya nih Erwin punya data seperti di bawah ini: <br> 148 146 102 108 155 <br>\r\n    <br>\r\n    Coba lo tentuin nilai median dari data di atas!\r\n</p>\r\n\r\n",
+   :options
+   [[false "102 " 0]
+    [false "131.80" 1]
+    [false "108 " 2]
+    [true "146 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 148 146 102 108 155. <br>\r\n    Data yang udah diurutkan: 102 108 146 148 155. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99087766461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Misalnya nih Butet punya data seperti di bawah ini: <br> 129 140 89 94 130 <br>\r\n    <br>\r\n    Coba lo tentuin nilai median dari data di atas!\r\n</p>\r\n\r\n",
+   :options
+   [[false "94 " 0]
+    [false "116.40" 1]
+    [true "129 " 2]
+    [false "89 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 129 140 89 94 130. <br>\r\n    Data yang udah diurutkan: 89 94 129 130 140. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99087767461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Butet punya data kek gini nih: <br> 108 134 169 165 130 95 140 <br>\r\n    <br>\r\n    Berapa nilai tengah berdasarkan data di atas?\r\n</p>\r\n\r\n",
+   :options
+   [[false "134.43" 0]
+    [true "134 " 1]
+    [false "130 " 2]
+    [false "165 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 108 134 169 165 130 95 140. <br>\r\n    Data yang udah diurutkan: 95 108 130 134 140 165 169. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e70461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Butet punya data kek gini nih: <br> 115 144 141 163 122 148 89 <br>\r\n    <br>\r\n    Berapa nilai tengah berdasarkan data di atas?\r\n</p>\r\n\r\n",
+   :options
+   [[true "141 " 0]
+    [false "131.71" 1]
+    [false "163 " 2]
+    [false "122 " 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 115 144 141 163 122 148 89. <br>\r\n    Data yang udah diurutkan: 89 115 122 141 144 148 163. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e71461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Erwin punya data kek gini nih: <br> 158 154 167 97 175 <br>\r\n    <br>\r\n    Tentukan nilai median berdasarkan data di atas?\r\n</p>\r\n\r\n",
+   :options
+   [[false "167 " 0]
+    [true "158 " 1]
+    [false "154 " 2]
+    [false "150.20" 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 158 154 167 97 175. <br>\r\n    Data yang udah diurutkan: 97 154 158 167 175. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e72461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Cintya punya data kek gini nih: <br> 123 181 104 109 119 <br>\r\n    <br>\r\n    Nilai tengah berdasarkan data di atas adalah ....\r\n</p>\r\n\r\n",
+   :options
+   [[false "104 " 0]
+    [false "127.20" 1]
+    [true "119 " 2]
+    [false "109 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 123 181 104 109 119. <br>\r\n    Data yang udah diurutkan: 104 109 119 123 181. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e73461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Misalnya nih Mira punya data seperti di bawah ini: <br> 131 129 153 112 128 158 137 <br>\r\n    <br>\r\n    Nilai median berdasarkan data di atas adalah ....\r\n</p>\r\n\r\n",
+   :options
+   [[false "135.43" 0]
+    [true "131 " 1]
+    [false "112 " 2]
+    [false "129 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 131 129 153 112 128 158 137. <br>\r\n    Data yang udah diurutkan: 112 128 129 131 137 153 158. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e74461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Yudha punya data kek gini nih: <br> 157 173 120 143 125 <br>\r\n    <br>\r\n    Nilai tengah berdasarkan data di atas adalah ....\r\n</p>\r\n\r\n",
+   :options
+   [[false "125 " 0]
+    [false "120 " 1]
+    [false "143.60" 2]
+    [true "143 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 157 173 120 143 125. <br>\r\n    Data yang udah diurutkan: 120 125 143 157 173. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e75461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Misalnya nih Cintya punya data seperti di bawah ini: <br> 134 83 163 164 118 <br>\r\n    <br>\r\n    Coba lo tentuin nilai tengah dari data di atas!\r\n</p>\r\n\r\n",
+   :options
+   [[false "163 " 0]
+    [false "132.40" 1]
+    [false "118 " 2]
+    [true "134 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 134 83 163 164 118. <br>\r\n    Data yang udah diurutkan: 83 118 134 163 164. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e76461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Misalnya nih Yudha punya data seperti di bawah ini: <br> 108 118 105 <br>\r\n    <br>\r\n    Coba lo tentuin nilai tengah dari data di atas!\r\n</p>\r\n\r\n",
+   :options
+   [[false "105 " 0]
+    [false "118 " 1]
+    [false "110.33" 2]
+    [true "108 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 108 118 105. <br>\r\n    Data yang udah diurutkan: 105 108 118. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e77461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Mira punya data kek gini nih: <br> 85 176 159 90 131 <br>\r\n    <br>\r\n    Coba lo tentuin nilai median dari data di atas!\r\n</p>\r\n\r\n",
+   :options
+   [[false "159 " 0]
+    [false "90 " 1]
+    [false "128.20" 2]
+    [true "131 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 85 176 159 90 131. <br>\r\n    Data yang udah diurutkan: 85 90 131 159 176. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e78461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Mira punya data kek gini nih: <br> 174 112 124 80 99 <br>\r\n    <br>\r\n    Nilai tengah berdasarkan data di atas adalah ....\r\n</p>\r\n\r\n",
+   :options
+   [[false "124 " 0]
+    [true "112 " 1]
+    [false "117.80" 2]
+    [false "99 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 174 112 124 80 99. <br>\r\n    Data yang udah diurutkan: 80 99 112 124 174. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e79461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Yudha punya data kek gini nih: <br> 111 168 107 177 137 <br>\r\n    <br>\r\n    Tentukan nilai median berdasarkan data di atas?\r\n</p>\r\n\r\n",
+   :options
+   [[false "111 " 0]
+    [false "140.00" 1]
+    [false "107 " 2]
+    [true "137 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 111 168 107 177 137. <br>\r\n    Data yang udah diurutkan: 107 111 137 168 177. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e7a461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Erwin punya data kek gini nih: <br> 121 144 128 <br>\r\n    <br>\r\n    Nilai tengah berdasarkan data di atas adalah ....\r\n</p>\r\n\r\n",
+   :options
+   [[false "131.00" 0]
+    [false "121 " 1]
+    [false "144 " 2]
+    [true "128 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 121 144 128. <br>\r\n    Data yang udah diurutkan: 121 128 144. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e7b461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Mira punya data kek gini nih: <br> 149 105 184 138 126 <br>\r\n    <br>\r\n    Tentukan nilai median berdasarkan data di atas?\r\n</p>\r\n\r\n",
+   :options
+   [[false "126 " 0]
+    [true "138 " 1]
+    [false "184 " 2]
+    [false "140.40" 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 149 105 184 138 126. <br>\r\n    Data yang udah diurutkan: 105 126 138 149 184. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e7c461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Erwin punya data kek gini nih: <br> 126 179 143 <br>\r\n    <br>\r\n    Coba lo tentuin nilai tengah dari data di atas!\r\n</p>\r\n\r\n",
+   :options
+   [[false "149.33" 0]
+    [false "126 " 1]
+    [true "143 " 2]
+    [false "179 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 126 179 143. <br>\r\n    Data yang udah diurutkan: 126 143 179. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e7d461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Mira punya data kek gini nih: <br> 114 165 96 98 132 <br>\r\n    <br>\r\n    Berapa nilai tengah berdasarkan data di atas?\r\n</p>\r\n\r\n",
+   :options
+   [[true "114 " 0]
+    [false "98 " 1]
+    [false "96 " 2]
+    [false "121.00" 3]],
+   :jawaban "A"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 114 165 96 98 132. <br>\r\n    Data yang udah diurutkan: 96 98 114 132 165. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e7e461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Misalnya nih Erwin punya data seperti di bawah ini: <br> 104 170 135 <br>\r\n    <br>\r\n    Coba lo tentuin nilai tengah dari data di atas!\r\n</p>\r\n\r\n",
+   :options
+   [[false "170 " 0]
+    [true "135 " 1]
+    [false "136.33" 2]
+    [false "104 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 104 170 135. <br>\r\n    Data yang udah diurutkan: 104 135 170. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e7f461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Yudha punya data kek gini nih: <br> 83 171 124 <br>\r\n    <br>\r\n    Berapa nilai tengah berdasarkan data di atas?\r\n</p>\r\n\r\n",
+   :options
+   [[false "83 " 0]
+    [true "124 " 1]
+    [false "126.00" 2]
+    [false "171 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 83 171 124. <br>\r\n    Data yang udah diurutkan: 83 124 171. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e80461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Misalnya nih Butet punya data seperti di bawah ini: <br> 166 143 84 173 154 175 93 <br>\r\n    <br>\r\n    Tentukan nilai tengah berdasarkan data di atas?\r\n</p>\r\n\r\n",
+   :options
+   [[false "173 " 0]
+    [false "143 " 1]
+    [true "154 " 2]
+    [false "141.14" 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 166 143 84 173 154 175 93. <br>\r\n    Data yang udah diurutkan: 84 93 143 154 166 173 175. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e81461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Yudha punya data kek gini nih: <br> 141 95 183 151 87 <br>\r\n    <br>\r\n    Berapa nilai tengah berdasarkan data di atas?\r\n</p>\r\n\r\n",
+   :options
+   [[false "131.40" 0]
+    [false "183 " 1]
+    [false "95 " 2]
+    [true "141 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 141 95 183 151 87. <br>\r\n    Data yang udah diurutkan: 87 95 141 151 183. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e82461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Butet punya data kek gini nih: <br> 115 135 128 103 110 <br>\r\n    <br>\r\n    Coba lo tentuin nilai tengah dari data di atas!\r\n</p>\r\n\r\n",
+   :options
+   [[false "110 " 0]
+    [false "128 " 1]
+    [false "118.20" 2]
+    [true "115 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 115 135 128 103 110. <br>\r\n    Data yang udah diurutkan: 103 110 115 128 135. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e83461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Cintya punya data kek gini nih: <br> 117 180 93 <br>\r\n    <br>\r\n    Tentukan nilai tengah berdasarkan data di atas?\r\n</p>\r\n\r\n",
+   :options
+   [[false "130.00" 0]
+    [true "117 " 1]
+    [false "180 " 2]
+    [false "93 " 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 117 180 93. <br>\r\n    Data yang udah diurutkan: 93 117 180. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e84461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Guys, Cintya punya data kek gini nih: <br> 94 106 85 162 145 102 133 <br>\r\n    <br>\r\n    Coba lo tentuin nilai median dari data di atas!\r\n</p>\r\n\r\n",
+   :options
+   [[false "118.14" 0]
+    [false "102 " 1]
+    [true "106 " 2]
+    [false "162 " 3]],
+   :jawaban "C"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 94 106 85 162 145 102 133. <br>\r\n    Data yang udah diurutkan: 85 94 102 106 133 145 162. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e85461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Misalnya nih Erwin punya data seperti di bawah ini: <br> 150 124 171 172 152 110 170 <br>\r\n    <br>\r\n    Tentukan nilai tengah berdasarkan data di atas?\r\n</p>\r\n\r\n",
+   :options
+   [[false "150 " 0]
+    [true "152 " 1]
+    [false "172 " 2]
+    [false "149.86" 3]],
+   :jawaban "B"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 150 124 171 172 152 110 170. <br>\r\n    Data yang udah diurutkan: 110 124 150 152 170 171 172. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e86461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Misalnya nih Butet punya data seperti di bawah ini: <br> 158 168 84 <br>\r\n    <br>\r\n    Berapa nilai tengah berdasarkan data di atas?\r\n</p>\r\n\r\n",
+   :options
+   [[false "84 " 0]
+    [false "136.67" 1]
+    [false "168 " 2]
+    [true "158 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 158 168 84. <br>\r\n    Data yang udah diurutkan: 84 158 168. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e87461111eca7254465a20e98f5"}
+ {:soal
+  {:soal-text
+   "\r\n\r\n<p>\r\n    Misalnya nih Cintya punya data seperti di bawah ini: <br> 97 91 80 105 104 149 99 <br>\r\n    <br>\r\n    Nilai tengah berdasarkan data di atas adalah ....\r\n</p>\r\n\r\n",
+   :options
+   [[false "103.57" 0]
+    [false "97 " 1]
+    [false "105 " 2]
+    [true "99 " 3]],
+   :jawaban "D"},
+  :bahas
+  "\r\n\r\n<p>\r\n    Ingat, median adalah nilai tengah dari data yang yang telah diurutkan. <br>\r\n    Terus, coba lo urutin dulu datanya dari yang terkecil sampai yang terbesar! <br>\r\n    Data awal: 97 91 80 105 104 149 99. <br>\r\n    Data yang udah diurutkan: 80 91 97 99 104 105 149. <br>\r\n    Yaudah deh, tinggal cari nilai tengah dari data yang udah diurutkan. <br>\r\n</p>",
+  :images [],
+  :template-id "cb390a60117d11eca781c5680afeea05",
+  :topic :math,
+  :problem-id "99089e88461111eca7254465a20e98f5"}]
